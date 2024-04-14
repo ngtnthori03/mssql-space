@@ -1,2 +1,2 @@
-# mssql-box
-NTZOE's mssql container
+# mssql-space
+easy way to install MSSQL on your localhost
