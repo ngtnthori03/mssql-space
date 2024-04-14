@@ -1,5 +1,5 @@
 
-# setup (ntzoe-home)[http://github.com/ngtnthori03/ntzoe-home) first.
+# setup [ntzoe-home](http://github.com/ngtnthori03/ntzoe-home) first.
 
 # mssql-space
 easy way to working with MSSQL
