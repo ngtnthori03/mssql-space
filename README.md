@@ -1,5 +1,8 @@
+
+# setup (ntzoe-home)[http://github.com/ngtnthori03/ntzoe-home) first.
+
 # mssql-space
-easy way to install MSSQL on your localhost
+easy way to working with MSSQL
 
 # getting started
 
